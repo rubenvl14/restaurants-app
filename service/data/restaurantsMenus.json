@@ -1,0 +1,28 @@
+[
+	{
+		"id" : 1,
+		"name" : "Restaurante 1",
+		"phone": "+ 34 000 000 000",
+		"menu" : [
+
+		]
+	},
+
+	{
+		"id" : 2,
+		"name" : "Restaurante 2",
+		"phone": "+ 34 111 111 111",
+		"menu" : [
+			
+		]
+	},
+
+	{
+		"id" : 3,
+		"name" : "Restaurante 3",
+		"phone": "+ 34 222 222 222",
+		"menu" : [
+			
+		]
+	}
+ ]
